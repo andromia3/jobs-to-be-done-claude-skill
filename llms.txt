@@ -1,0 +1,19 @@
+# Jobs-to-be-Done skill for Claude
+
+> A Claude skill that applies Tony Ulwick's "Jobs to be Done: Theory to Practice" (https://jobs-to-be-done-book.com/) to any product, feature, or project. Three modes: Discover (define the core functional job), Break down (Universal Job Map plus desired outcome statements), Plan (Opportunity Algorithm plus Growth Strategy Matrix). All frameworks use the book's exact formats; unsurveyed scores are labeled estimates. MIT licensed; frameworks credited to Ulwick/Strategyn.
+
+Install: copy `jobs-to-be-done/` into `~/.claude/skills/` (Claude Code) or save SKILL.md content as a skill in Cowork/claude.ai. Trigger with "JTBD this", "job map for X", or "what job is this solving".
+
+## Core files
+
+- [SKILL.md](jobs-to-be-done/SKILL.md): the full skill, with modes, formats, rules, failure handling
+- [REFERENCE.md](REFERENCE.md): one-page cheat sheet with job statement syntax, outcome syntax, 8 job-map steps, opportunity formula, 5 strategies
+
+## Examples
+
+- [B2B API product](examples/b2b-api-product.md): full Discover, Break down, Plan run on a web data API
+- [Consumer app](examples/consumer-app.md): same process diagnosing flat growth in a meal-planning app
+
+## Optional
+
+- [README.md](README.md): install, usage, credits (frameworks © Ulwick/Strategyn, skill text MIT)
