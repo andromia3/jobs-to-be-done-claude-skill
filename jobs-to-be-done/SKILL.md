@@ -1,6 +1,7 @@
 ---
 name: jobs-to-be-done
-description: Apply Jobs-to-be-Done thinking (Tony Ulwick's "Jobs to be Done: Theory to Practice") to any product, feature, project, or task. Use whenever the user wants to identify the job a customer is trying to get done, break a job into steps and needs, prioritize unmet needs, or plan what to build and how to position it. Trigger on "JTBD", "job to be done", "what job is this solving", "jobs framework", "desired outcomes", "job map", "opportunity score", "underserved needs", "outcome-driven", or casual asks like "help me plan this feature around customer needs" or "JTBD this". Three modes - Discover (define the job), Break down (job map + desired outcomes), Plan (prioritize opportunities and pick a growth strategy).
+description: >-
+  Apply Jobs-to-be-Done thinking (Tony Ulwick's "Jobs to be Done: Theory to Practice") to any product, feature, project, or task. Use whenever the user wants to identify the job a customer is trying to get done, break a job into steps and needs, prioritize unmet needs, or plan what to build and how to position it. Trigger on "JTBD", "job to be done", "what job is this solving", "jobs framework", "desired outcomes", "job map", "opportunity score", "underserved needs", "outcome-driven", or casual asks like "help me plan this feature around customer needs" or "JTBD this". Three modes - Discover (define the job), Break down (job map + desired outcomes), Plan (prioritize opportunities and pick a growth strategy).
 ---
 
 # Jobs-to-be-Done
