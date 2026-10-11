@@ -68,7 +68,7 @@ Importance and satisfaction = % of surveyed customers rating 4 or 5 on a 5-point
 | Discrete | worse, costs more | restricted customers |
 | Sustaining | <5% better/cheaper | existing customers |
 
-Customers switch at about **20% better**. Differentiated fails in overserved segments; disruptive fails in underserved ones. Segment first.
+Treat the book's roughly **20% improvement** guidance as a framework claim, not a universal switching threshold. Estimated scores guide research; they do not prove a growth diagnosis or justify cancelling features without validation. Differentiated fails in overserved segments; disruptive fails in underserved ones. Segment first.
 
 ---
 

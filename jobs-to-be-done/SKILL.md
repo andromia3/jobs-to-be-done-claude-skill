@@ -109,7 +109,7 @@ Read the scores the book's way:
 | **Discrete** | worse, costs more | customers with restricted options | airport water, stadium concessions |
 | **Sustaining** | slightly better/cheaper (<5%) | existing customers only | incumbent refreshes |
 
-Two warnings from the book: a differentiated strategy fails in an overserved segment, and a disruptive strategy fails in an underserved one. So Step 1 must come first. And customers only switch when a solution gets the job done about **20% better**; "slightly better" wins no one over.
+Two warnings from the book: a differentiated strategy fails in an overserved segment, and a disruptive strategy fails in an underserved one. So Step 1 must come first. The book's roughly **20% improvement** guidance is a framework claim to investigate, not a universal switching threshold. Estimated scores support hypotheses and validation plans, not proof of why growth is flat or which feature should be cancelled. Validate customer performance, total cost, switching barriers, and willingness to pay before making that decision.
 
 **Step 3. Turn it into a plan.** Draw from the book's market and product strategy steps, picking what fits:
 

@@ -45,14 +45,14 @@ Rule check: solution-free (no "API" in the job; Keurig test passed: the job isn'
 | Fast schema definition | 6.5 | 7.0 | 6.5 |
 | Raw request speed | 5.8 | 8.5 | 5.8 |
 
-**Reading:** resilience and observability are underserved; speed is overserved. Competitors race on latency that nobody is starving for.
+**Reading:** the interview-based estimates suggest resilience and observability may be underserved for these interviewees, while speed may already be adequate. They do not establish market-wide priorities or prove what competitors' customers need. Validate the outcome ratings with a suitable sample and compare segments before setting strategy.
 
-**Strategy: Differentiated.** Target underserved AI teams with self-healing extraction and degradation alerts at premium price. Dominant is the long-term play if unit costs allow about 20% cheaper too.
+**Strategy candidate: Differentiated.** Test whether AI teams value resilient extraction and degradation alerts enough to pay a premium. A dominant strategy would require evidence of better performance and lower customer cost; lower supplier unit costs alone do not establish that result.
 
 **Actions (each tied to an unmet outcome):**
 
-1. Ship change-resilient extraction (outcome #1) before adding endpoints
-2. Build degradation alerting into the default plan (outcome #2)
+1. Test change-resilient extraction (outcome #1) against the value of additional endpoints before reprioritizing either
+2. Pilot degradation alerting (outcome #2) and measure detection usefulness and false alarms before making it a default
 3. Value proposition in outcome language: "Data that survives site changes", not "fast scraping API"
 4. SEO/content around the job phrases customers actually search: *detect scraper breakage*, *schema drift in web data*
 5. Sales tool for the buyer: cost-per-successful-record calculator (financial outcome)

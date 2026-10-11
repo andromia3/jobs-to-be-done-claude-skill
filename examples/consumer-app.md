@@ -10,7 +10,7 @@
 
 > *Feed the household satisfying meals across the week, within a budget*
 
-Rule check, and this is where the flat growth gets explained: "browse recipes" fails the narrowness test the way "boil water" did for the kettle. Recipes are one step of the job, and a competitor who serves the *whole* job (plan, shop, cook, use leftovers) takes the market. Also: "weeknight chaos" is a situation, not a job. The job is what the cook decides to do in it.
+Rule check: "browse recipes" may define too narrow a job if customers are trying to plan, shop, cook, and use leftovers. That is a hypothesis about the scope of their needs, not an explanation of flat growth. Check alternatives such as acquisition, pricing, onboarding, and retention before diagnosing the business. Also: "weeknight chaos" is a situation, not a job. The job is what the cook decides to do in it.
 
 ## Mode 2 - Break down
 
@@ -40,13 +40,13 @@ Rule check, and this is where the flat growth gets explained: "browse recipes" f
 | One shopping list from the plan | 7.9 | 4.5 | **11.3** |
 | Find new recipes | 6.0 | 8.8 | 6.0 |
 
-**Reading:** recipe discovery is heavily overserved, which is why shipping more recipe features moved nothing. The unmet outcomes cluster around mid-week adaptation and waste.
+**Reading:** these estimates suggest recipe discovery may be overserved and unmet outcomes may cluster around mid-week adaptation and waste. They do not establish market prevalence or show why growth is flat. Validate both the outcome ratings and the competing explanations before committing the roadmap.
 
-**Strategy: Dominant candidate.** Get the job done better (adaptive replanning, waste tracking) at the same subscription price and you undercut recipe-first incumbents on the outcomes that matter. Remember the switching bar: about 20% better on unmet outcomes, or nobody moves.
+**Strategy candidate:** test adaptive replanning and waste tracking at the current subscription price. A dominant strategy requires evidence of both better job performance and lower cost; the same subscription price alone does not establish lower customer cost. Treat the book's switching-improvement guidance as a framework claim, not a universal customer threshold.
 
 **Actions:**
 
-1. Build "swap tonight's meal" one-tap replanning (outcome #1); kill the next recipe-pack release
-2. Expiry-aware planning: suggest meals from what's already in the fridge (outcome #2)
-3. Reposition from "10,000 recipes" to outcome language: "Never wonder what's for dinner, even when plans change"
-4. Onboarding rebuilt around the consumption-chain outcome: preferences set in under 10 minutes
+1. Prototype "swap tonight's meal" one-tap replanning (outcome #1); compare its value with the planned recipe release before reprioritizing either
+2. Test expiry-aware planning from existing fridge ingredients (outcome #2); measure actual use and waste before claiming an improvement
+3. Test outcome-led positioning against the current recipe-led message; avoid "never" promises until the product can support them
+4. Observe household-preference setup and test a shorter flow; treat under 10 minutes as a proposed target, not a measured customer requirement
